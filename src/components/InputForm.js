@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 import Preview from './Preview'
 
 class InputForm extends Component {

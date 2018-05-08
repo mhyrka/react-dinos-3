@@ -1,11 +1,10 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 
 class JobDetails extends Component {
 
   render() {
     return (
       <div>
-        {/* {console.log(this.props)} */}
         <section id="job-details">
           <h2>Job Details</h2>
           <h4>{this.props.jobDetails.title}</h4>

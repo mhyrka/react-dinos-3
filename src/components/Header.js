@@ -1,11 +1,11 @@
-import React from 'react';
+import React from 'react'
 
 const Header = (props) => {
-    return (
-      <header>
-        <img src="./g-dino.png" alt="Dinosaur Logo" />
-      </header>
-    )
+  return (
+    <header>
+      <img src="./g-dino.png" alt="Dinosaur Logo" />
+    </header>
+  )
 }
 
 
